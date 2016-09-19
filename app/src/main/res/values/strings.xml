@@ -1,3 +1,37 @@
 <resources>
-    <string name="app_name">ExampleMenu</string>
+    <string name="app_name">CSIS</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="mission_statement">
+        The mission of the Department of Computer Science and Information
+        at SVSU is to provide an outstanding education to its students in
+        accordance with the guidelines of the SVSU mission, to advance scholarship
+        in the key domains of the computing and information systems sciences, and
+        to engage in activities that improve the welfare of society and enhance the reputation of SVSU.</string>
+    <string name="the_rest_of_it">
+
+        The department will provide its students with balanced programs which emphasize:
+
+        the knowledge of the core principles of computer science
+        the skills necessary to use computers to solve real-world problems
+        experience in implementing solutions with modern computing tools
+        the communication skills necessary to work effectively in a team
+        foster a high level of faculty/student interaction and mentoring
+        At the end of their programs at SVSU, the department expects CSIS students to be able to:
+
+        Solve problems by using skills in math, computer science, and technology
+        Design, implement, document and maintain computer systems
+        Communicate effectively both orally and in writing
+        Understand professional, ethical, legal, security and social issues and responsibilities
+        Apply their knowledge and skills as they start their professional careers
+        Work well both independently and collaboratively with diverse groups
+        Generate new and creative ideas
+
+        After the successful completion of their degree requirements at SVSU:
+
+        Graduates shall demonstrate a thorough grounding in the fundamental principles and practices
+        of computing and information systems, and those principles that underpin them.
+        Graduates shall demonstrate an understanding of the contexts in which computing is applied.
+        Graduates shall find employment in the computing profession and/or continue advanced studies
+        in computer science or information systems. </string>
+    <string name="action_settings">Settings</string>
 </resources>
